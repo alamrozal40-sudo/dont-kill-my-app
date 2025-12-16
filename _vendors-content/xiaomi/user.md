@@ -48,7 +48,8 @@ On MIUI 14, there is a new permission to start from the background for each app,
 
 If the app is locked here in this "Boost speed" feature, it may be spared by *Ultra battery saver*. 
 
-<div class="img-block">
+<div class="Img-blockggdsghg
+    ">
   <img src="/assets/img/xiaomi/xiaomi_booster.jpg">
   <img src="/assets/img/xiaomi/xiaomi_booster_2.jpg">
   <img src="/assets/img/xiaomi/xiaomi_booster_3.jpg">
