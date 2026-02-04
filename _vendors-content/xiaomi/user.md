@@ -1,3 +1,4 @@
+rebmi not 14 5g mobile
 ---
 manufacturer: 
     - xiaomi
